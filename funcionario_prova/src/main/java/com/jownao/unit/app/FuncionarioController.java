@@ -69,7 +69,7 @@ public class FuncionarioController {
             return ResponseEntity.status(500).body("Erro no endpoint");
         }
     }
-    //Endpint para alterar um funcionario pela matricula
+    //Endpoint para alterar um funcionario pela matricula
     @PutMapping("/v1/funcionario/alterar")
     public ResponseEntity<Object> alterarCliente(@RequestBody Funcionario funcionario){
         try {
