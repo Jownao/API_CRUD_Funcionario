@@ -21,5 +21,7 @@ Endpoint para alterar um funcionario pela matricula
 
 - Delete  
 Endpoint para deletar um funcionario pela matricula
-![Delete](https://github.com/Jownao/API_CRUD_Funcionario/blob/main/to_readme/deletar.png)
+![Delete](https://github.com/Jownao/API_CRUD_Funcionario/blob/main/to_readme/deletar.png)  
 
+## Dados Persistindo no banco de dados
+![banco](https://github.com/Jownao/API_CRUD_Funcionario/blob/main/to_readme/db.png)
